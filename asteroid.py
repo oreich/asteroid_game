@@ -2,7 +2,7 @@ from screen import Screen
 from random import randint
 import math
 
-
+# this is a backup file
 class Asteroid:
     """
     class asteroid create asteroid object
