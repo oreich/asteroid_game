@@ -11,4 +11,8 @@ for example: a stop button whose purpose is to stop the spaceship when it flies 
 A reverse flight button that slows down the spaceship and even allows it to fly backwards.
 I also changed the colors of the screen, the asteroids and the spacecraft.
 All you have to do to enjoy the game is to download the 5 files to a folder and run the asteroid_main file.
+Move with the arrow keys.
+Shoot a torpedo with the space bar.
+Stop by pressing the s key.
+And if you want to stop the game press q.
 Enjoy!
